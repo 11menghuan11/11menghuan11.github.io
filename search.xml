@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>java开发学习之路</title>
+      <link href="/2019/03/30/java%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/"/>
+      <url>/2019/03/30/java%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/</url>
+      
+        <content type="html"><![CDATA[<h1 id="java学习路线"><a href="#java学习路线" class="headerlink" title="java学习路线"></a>java学习路线</h1><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h2><ul><li>编程语言:java python c/c++</li><li>基本语法</li><li>基本网络知识:TCP/IP HTTP/HTTPS</li></ul><hr><h2 id="工具方面"><a href="#工具方面" class="headerlink" title="工具方面"></a>工具方面</h2><ul><li>操作系统： Linux (CentOS\Ubuntu\Fe..)</li><li>代码管理： SVN/Git</li><li>持续集成(CI/CD): jenkins</li><li>java的项目管理工具: Maven/Gradle</li></ul><hr><h2 id="框架方面"><a href="#框架方面" class="headerlink" title="框架方面"></a>框架方面</h2><h4 id="应用层框架"><a href="#应用层框架" class="headerlink" title="应用层框架"></a>应用层框架</h4><ul><li><del>ssh spring + structs + hibernate</del></li><li>ssm: spring springmvc mybatis</li><li>spring boot</li></ul><h4 id="各种中间件"><a href="#各种中间件" class="headerlink" title="各种中间件"></a>各种中间件</h4><ul><li>MQ 消息队列</li><li>RPC 通信框架 gRPC thrift dubbo springcloud</li><li>elasticsearch 数据库 搜索引擎</li></ul><h4 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h4><ul><li>SQL: MySQL/Postgre SQL</li><li>NoSQL: Redis Memcached mongodb elasticsearch</li></ul><hr><h2 id="架构方面"><a href="#架构方面" class="headerlink" title="架构方面"></a>架构方面</h2><h4 id="分布式-微服务架构"><a href="#分布式-微服务架构" class="headerlink" title="分布式/微服务架构"></a>分布式/微服务架构</h4><ul><li>spring cloud</li><li>dubbo</li><li>rpc通信</li></ul><h4 id="虚拟化-容器化的技术"><a href="#虚拟化-容器化的技术" class="headerlink" title="虚拟化/容器化的技术"></a>虚拟化/容器化的技术</h4><ul><li>Docker 容器化</li><li>kBs kubernetes</li></ul><hr><h2 id="关注源码-性能"><a href="#关注源码-性能" class="headerlink" title="关注源码/性能"></a>关注源码/性能</h2><ul><li>JDK源码以及部分设计思想</li><li>Spring 源码</li><li>JVM 细节和排错</li><li>高并发/高可用</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
