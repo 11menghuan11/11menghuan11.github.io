@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-29T19:20:53.799Z</updated>
+  <updated>2019-03-30T01:02:40.497Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>CV方向学习路径</title>
+    <link href="http://yoursite.com/2019/03/30/CV%E6%96%B9%E5%90%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/"/>
+    <id>http://yoursite.com/2019/03/30/CV方向学习路径/</id>
+    <published>2019-03-30T00:32:43.000Z</published>
+    <updated>2019-03-30T01:02:40.497Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><h2 id="python基础"><a href="#python基础" class="headerlink" title="python基础"></a>python基础</h2><ul><li>编程环境的搭建</li><li>基础语法和通用语法</li><li>Numpy, Pandas, Matplotlib, sklearn</li></ul><h2 id="数学基础"><a href="#数学基础" class="headerlink" title="数学基础"></a>数学基础</h2><ul><li>高等数学</li><li>线性代数</li><li>统计学习方法</li><li>矩阵分析和凸优化</li></ul><hr><h1 id="提升"><a href="#提升" class="headerlink" title="提升"></a>提升</h1><h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><ul><li>书籍:周志华的《机器学习》</li><li>公开课:吴恩达的机器学习</li></ul><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2><ul><li>书籍:《深度学习Deep Learning》</li></ul><hr><h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><h2 id="深度学习框架实践"><a href="#深度学习框架实践" class="headerlink" title="深度学习框架实践"></a>深度学习框架实践</h2><ul><li>PyTorch实现</li><li>Tensorflow实现</li></ul><h2 id="计算机视觉"><a href="#计算机视觉" class="headerlink" title="计算机视觉"></a>计算机视觉</h2><ul><li>斯坦福cs231n计算机视觉公开课</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;入门&quot;&gt;&lt;a href=&quot;#入门&quot; class=&quot;headerlink&quot; title=&quot;入门&quot;&gt;&lt;/a&gt;入门&lt;/h1&gt;&lt;h2 id=&quot;python基础&quot;&gt;&lt;a href=&quot;#python基础&quot; class=&quot;headerlink&quot; title=&quot;python基础&quot;
+      
+    
+    </summary>
+    
+      <category term="CV" scheme="http://yoursite.com/categories/CV/"/>
+    
+    
+      <category term="CV" scheme="http://yoursite.com/tags/CV/"/>
+    
+  </entry>
+  
+  <entry>
     <title>java开发学习之路</title>
     <link href="http://yoursite.com/2019/03/30/java%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/"/>
     <id>http://yoursite.com/2019/03/30/java开发学习之路/</id>
     <published>2019-03-29T18:33:20.000Z</published>
-    <updated>2019-03-29T19:20:53.799Z</updated>
+    <updated>2019-03-30T01:02:45.121Z</updated>
     
     <content type="html"><![CDATA[<h1 id="java学习路线"><a href="#java学习路线" class="headerlink" title="java学习路线"></a>java学习路线</h1><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h2><ul><li>编程语言:java python c/c++</li><li>基本语法</li><li>基本网络知识:TCP/IP HTTP/HTTPS</li></ul><hr><h2 id="工具方面"><a href="#工具方面" class="headerlink" title="工具方面"></a>工具方面</h2><ul><li>操作系统： Linux (CentOS\Ubuntu\Fe..)</li><li>代码管理： SVN/Git</li><li>持续集成(CI/CD): jenkins</li><li>java的项目管理工具: Maven/Gradle</li></ul><hr><h2 id="框架方面"><a href="#框架方面" class="headerlink" title="框架方面"></a>框架方面</h2><h4 id="应用层框架"><a href="#应用层框架" class="headerlink" title="应用层框架"></a>应用层框架</h4><ul><li><del>ssh spring + structs + hibernate</del></li><li>ssm: spring springmvc mybatis</li><li>spring boot</li></ul><h4 id="各种中间件"><a href="#各种中间件" class="headerlink" title="各种中间件"></a>各种中间件</h4><ul><li>MQ 消息队列</li><li>RPC 通信框架 gRPC thrift dubbo springcloud</li><li>elasticsearch 数据库 搜索引擎</li></ul><h4 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h4><ul><li>SQL: MySQL/Postgre SQL</li><li>NoSQL: Redis Memcached mongodb elasticsearch</li></ul><hr><h2 id="架构方面"><a href="#架构方面" class="headerlink" title="架构方面"></a>架构方面</h2><h4 id="分布式-微服务架构"><a href="#分布式-微服务架构" class="headerlink" title="分布式/微服务架构"></a>分布式/微服务架构</h4><ul><li>spring cloud</li><li>dubbo</li><li>rpc通信</li></ul><h4 id="虚拟化-容器化的技术"><a href="#虚拟化-容器化的技术" class="headerlink" title="虚拟化/容器化的技术"></a>虚拟化/容器化的技术</h4><ul><li>Docker 容器化</li><li>kBs kubernetes</li></ul><hr><h2 id="关注源码-性能"><a href="#关注源码-性能" class="headerlink" title="关注源码/性能"></a>关注源码/性能</h2><ul><li>JDK源码以及部分设计思想</li><li>Spring 源码</li><li>JVM 细节和排错</li><li>高并发/高可用</li></ul>]]></content>
     
