@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-30T19:31:52.498Z</updated>
+  <updated>2019-03-31T05:39:34.578Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/03/30/CV%E6%96%B9%E5%90%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/"/>
     <id>http://yoursite.com/2019/03/30/CV方向学习路径/</id>
     <published>2019-03-30T00:32:43.000Z</published>
-    <updated>2019-03-30T19:31:52.498Z</updated>
+    <updated>2019-03-31T05:39:34.578Z</updated>
     
-    <content type="html"><![CDATA[<p class="description"></p><p><img src="https://" alt style="width:100%"></p><a id="more"></a><h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><h2 id="python基础"><a href="#python基础" class="headerlink" title="python基础"></a>python基础</h2><ul><li>编程环境的搭建</li><li>基础语法和通用语法</li><li>Numpy, Pandas, Matplotlib, sklearn</li></ul><h2 id="数学基础"><a href="#数学基础" class="headerlink" title="数学基础"></a>数学基础</h2><ul><li>高等数学</li><li>线性代数</li><li>统计学习方法</li><li>矩阵分析和凸优化</li></ul><hr><h1 id="提升"><a href="#提升" class="headerlink" title="提升"></a>提升</h1><h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><ul><li>书籍:周志华的《机器学习》</li><li>公开课:吴恩达的机器学习</li></ul><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2><ul><li>书籍:《深度学习Deep Learning》</li></ul><hr><h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><h2 id="深度学习框架实践"><a href="#深度学习框架实践" class="headerlink" title="深度学习框架实践"></a>深度学习框架实践</h2><ul><li>PyTorch实现</li><li>Tensorflow实现</li></ul><h2 id="计算机视觉"><a href="#计算机视觉" class="headerlink" title="计算机视觉"></a>计算机视觉</h2><ul><li>斯坦福cs231n计算机视觉公开课</li></ul>]]></content>
+    <content type="html"><![CDATA[<p class="description"></p><p><img src="https://" alt style="width:100%"><br><a id="more"></a></p><h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><p><img src="http://bmob-cdn-24538.b0.upaiyun.com/2019/03/31/7d1365a740ea8eee80c2dcc125242a2a.html" alt></p><h2 id="python基础"><a href="#python基础" class="headerlink" title="python基础"></a>python基础</h2><ul><li>编程环境的搭建</li><li>基础语法和通用语法</li><li>Numpy, Pandas, Matplotlib, sklearn</li></ul><h2 id="数学基础"><a href="#数学基础" class="headerlink" title="数学基础"></a>数学基础</h2><ul><li>高等数学</li><li>线性代数</li><li>统计学习方法</li><li>矩阵分析和凸优化</li></ul><hr><h1 id="提升"><a href="#提升" class="headerlink" title="提升"></a>提升</h1><h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><ul><li>书籍:周志华的《机器学习》</li><li>公开课:吴恩达的机器学习</li></ul><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2><ul><li>书籍:《深度学习Deep Learning》</li></ul><hr><h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><h2 id="深度学习框架实践"><a href="#深度学习框架实践" class="headerlink" title="深度学习框架实践"></a>深度学习框架实践</h2><ul><li>PyTorch实现</li><li>Tensorflow实现</li></ul><h2 id="计算机视觉"><a href="#计算机视觉" class="headerlink" title="计算机视觉"></a>计算机视觉</h2><ul><li>斯坦福cs231n计算机视觉公开课</li></ul>]]></content>
     
     <summary type="html">
     
@@ -59,7 +59,7 @@
 &lt;li&gt;操作系统： Linux (CentOS\Ubuntu\Fe..)&lt;/li&gt;
 &lt;li&gt;代码管理： SVN/Git&lt;/li&gt;
 &lt;li&gt;持续集成(CI/CD): jenkins&lt;/li&gt;
-&lt;li&gt;java的项目管理工具: Maven/Gradle
+&lt;li&gt;java的项目管理工具: Maven/Gradle&lt;/li&gt;&lt;/ul&gt;
     
     </summary>
     
