@@ -2,8 +2,8 @@
 <search>
   <entry>
     <title><![CDATA[CV方向学习路径]]></title>
-    <url>%2F2019%2F03%2F30%2FCV%E6%96%B9%E5%90%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84%2F</url>
-    <content type="text"><![CDATA[入门 python基础 编程环境的搭建 基础语法和通用语法 Numpy, Pandas, Matplotlib, sklearn 数学基础 高等数学 线性代数 统计学习方法 矩阵分析和凸优化 提升机器学习 书籍:周志华的《机器学习》 公开课:吴恩达的机器学习 深度学习 书籍:《深度学习Deep Learning》 进阶深度学习框架实践 PyTorch实现 Tensorflow实现 计算机视觉 斯坦福cs231n计算机视觉公开课]]></content>
+    <url>%2F2019%2F03%2F30%2FCV%E6%96%B9%E5%90%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84-1%2F</url>
+    <content type="text"><![CDATA[学习没目标？看这里！小白入坑计算机视觉的高效学习路线规划,成倍提高学习效率。 ![](CV方向学习路径-1/cl.jpg) 入门python基础 编程环境的搭建 基础语法和通用语法 Numpy, Pandas, Matplotlib, sklearn 数学基础 高等数学 线性代数 统计学习方法 矩阵分析和凸优化 提升机器学习 书籍:周志华的《机器学习》 公开课:吴恩达的机器学习 深度学习 书籍:《深度学习Deep Learning》 进阶深度学习框架实践 PyTorch实现 Tensorflow实现 计算机视觉 斯坦福cs231n计算机视觉公开课]]></content>
       <categories>
         <category>CV</category>
       </categories>
